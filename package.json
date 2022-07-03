@@ -1,11 +1,20 @@
 {
+  "name": "react-native-nativebase-bottom-tabs-template",
+  "version": "1.0.1",
+  "description": "Startup template with react native and native base with Bottom Tabs configured to begin with.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahtrahdis7/react-native-nativebase-bottom-tabs-template.git"
+  },
   "main": "node_modules/expo/AppEntry.js",
   "keywords": [
     "react",
     "expo",
     "template",
     "typescript",
-    "nativebase"
+    "nativebase",
+    "bottom-tabs",
+    "status-bar"
   ],
   "license": "MIT",
   "scripts": {
@@ -41,7 +50,6 @@
   "bugs": {
     "url": "https://github.com/GeekyAnts/nativebase-templates/issues"
   },
-  "homepage": "https://github.com/GeekyAnts/nativebase-templates#readme",
-  "author": "Aditya Jamuar",
-  "private": true
+  "homepage": "https://github.com/ahtrahdis7/react-native-nativebase-bottom-tabs-template",
+  "author": "Aditya Jamuar, Sidhartha Mallick",
 }
